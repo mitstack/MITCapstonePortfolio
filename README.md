@@ -3,6 +3,7 @@
 ## X Screen edge detection 
 ### Pac-Man will detect the screen and reverse the direction 
 <img src ="https://github.com/mitstack/MITModule/blob/main/PacMan/pac-man.PNG" width = '300'/>
+<a href ="https://mitstack.github.io/MITModule/">Eyes Exercise </a>
 
 
 # Real-Time-Bus-Tracker
