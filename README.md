@@ -1,7 +1,3 @@
-# Eyes
-## Exercise on eyes
-### Move the Mouse and see the animation
-<img src= "https://github.com/mitstack/MITModule/blob/main/Eye-Ball-Movement/oneeye.png" width='300'/>
 
 # Pac-Man
 ## X Screen edge detection 
@@ -12,3 +8,8 @@
 # Real Time Bus Tracker
 ## MAke Async call to Bus API and update the markers on map accordingly
 <img src= "https://github.com/mitstack/MITModule/blob/main/Real-Time-Bus-Tracker/real_time_bus_tracker.PNG" width='300'/>
+
+# Eyes Movement
+## Exercise on eyes
+### Move the Mouse and see the animation
+<img src= "https://github.com/mitstack/MITModule/blob/main/Eye-Ball-Movement/oneeye.png" width='300'/>
