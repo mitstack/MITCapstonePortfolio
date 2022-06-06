@@ -15,5 +15,5 @@
 # Eyes-Movement
 ## Exercise on eyes
 ### Move the Mouse and see the animation
-<img src= "https://github.com/mitstack/MITModule/blob/main/Eye-Ball-Movement/oneeye.png" width='300'/>
-<a href="https://github.com/mitstack/MITModule/blob/main/Eye-Ball-Movement/eyes.PNG"> Pac-Man </a>
+<img src= "https://github.com/mitstack/MITModule/blob/main/Eye-Ball-Movement/eyes.PNG" width='300'/>
+<a href="https://github.com/mitstack/MITModule/tree/main/Eye-Ball-Movement"> Pac-Man </a>
