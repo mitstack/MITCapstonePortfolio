@@ -1,7 +1,7 @@
 
 # Pac-Man
 ## X Screen edge detection 
-### Pac-Man will detect the screen and reverse the direction 
+### Pac-Man will detect the screen edge and reverse the direction 
 <img src ="https://github.com/mitstack/MITModule/blob/main/PacMan/pac-man.PNG" width = '300'/>
 <a href ="https://github.com/mitstack/MITModule/tree/main/PacMan">Eyes Exercise </a>
 
